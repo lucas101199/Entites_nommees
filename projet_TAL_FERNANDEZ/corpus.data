@@ -1,0 +1,100 @@
+0 , XX , XX , les , demoiselles , de ,  , B-product.
+1 , XX , les , demoiselles , de , Rochefort ,  , I-product.
+2 , les , demoiselles , de , Rochefort , !VIRGULE ,  , I-product.
+3 , demoiselles , de , Rochefort , !VIRGULE , la , LOC PERS  , I-product.
+4 , de , Rochefort , !VIRGULE , la , comédie ,  , O.
+5 , Rochefort , !VIRGULE , la , comédie , musicale ,  , O.
+6 , !VIRGULE , la , comédie , musicale , de ,  , O.
+7 , la , comédie , musicale , de , Michel ,  , O.
+8 , comédie , musicale , de , Michel , Legrand ,  , O.
+9 , musicale , de , Michel , Legrand , !VIRGULE , PERS ORG  , B-person.
+10 , de , Michel , Legrand , !VIRGULE , ce , PERS  , I-person.
+11 , Michel , Legrand , !VIRGULE , ce , sera ,  , O.
+13 , !VIRGULE , ce , sera , à_partir_du , vingt ,  , O.
+15 , sera , à_partir_du , vingt , six , septembre ,  , O.
+16 , à_partir_du , vingt , six , septembre , au ,  , O.
+17 , vingt , six , septembre , au , Palais ,  , O.
+18 , six , septembre , au , Palais , des ,  , O.
+19 , septembre , au , Palais , des , congrès , LOC ORG PERS  , B-geoloc.
+20 , au , Palais , des , congrès , de ,  , I-geoloc.
+21 , Palais , des , congrès , de , Paris ,  , I-geoloc.
+22 , des , congrès , de , Paris , !VIRGULE ,  , O.
+23 , congrès , de , Paris , !VIRGULE , un , LOC ORG PERS PROD  , B-geoloc.
+24 , de , Paris , !VIRGULE , un , mot ,  , O.
+25 , Paris , !VIRGULE , un , mot , encore ,  , O.
+26 , !VIRGULE , un , mot , encore , pour ,  , O.
+27 , un , mot , encore , pour , vous ,  , O.
+30 , pour , vous , dire , que , ce ,  , O.
+33 , que , ce , sont , Frederic , Sorel ,  , O.
+34 , ce , sont , Frederic , Sorel , et , PERS  , B-person.
+35 , sont , Frederic , Sorel , et , Mélanie ,  , I-person.
+37 , Sorel , et , Mélanie , Cohl , qui , PERS  , B-person.
+38 , et , Mélanie , Cohl , qui , reprennent ,  , I-person.
+40 , Cohl , qui , reprennent , les , rôles ,  , O.
+41 , qui , reprennent , les , rôles , tenus ,  , O.
+42 , reprennent , les , rôles , tenus , au ,  , O.
+43 , les , rôles , tenus , au , cinéma ,  , O.
+44 , rôles , tenus , au , cinéma , par ,  , O.
+45 , tenus , au , cinéma , par , Catherine ,  , O.
+46 , au , cinéma , par , Catherine , Deneuve ,  , O.
+47 , cinéma , par , Catherine , Deneuve , et , PERS  , B-person.
+48 , par , Catherine , Deneuve , et , Françoise , PERS  , I-person.
+50 , Deneuve , et , Françoise , Dorléac , . , PERS  , B-person.
+51 , et , Françoise , Dorléac , . , XX ,  , I-person.
+54 , XX , XX , midi , vingt , trois ,  , O.
+57 , vingt , trois , sur , France_Info , . ,  , O.
+58 , trois , sur , France_Info , . , XX , ORG  , B-org.
+61 , XX , XX , nouveau , rappel , des ,  , O.
+62 , XX , nouveau , rappel , des , titres ,  , O.
+63 , nouveau , rappel , des , titres , avec ,  , O.
+64 , rappel , des , titres , avec , Pascal ,  , O.
+65 , des , titres , avec , Pascal , Le ,  , O.
+66 , titres , avec , Pascal , Le , Guern , PERS  , B-person.
+67 , avec , Pascal , Le , Guern , . ,  , I-person.
+68 , Pascal , Le , Guern , . , XX ,  , I-person.
+71 , XX , XX , la , situation , en ,  , O.
+72 , XX , la , situation , en , Irak ,  , O.
+73 , la , situation , en , Irak , et ,  , O.
+74 , situation , en , Irak , et , la , LOC ORG  , B-geoloc.
+77 , et , la , délicate , question , du ,  , O.
+78 , la , délicate , question , du , rôle ,  , O.
+79 , délicate , question , du , rôle , de ,  , O.
+80 , question , du , rôle , de , l' ,  , O.
+82 , rôle , de , l' , * , ONU ,  , O.
+83 , de , l' , * , ONU , !VIRGULE ,  , B-org.
+84 , l' , * , ONU , !VIRGULE , l' , ORG  , I-org.
+85 , * , ONU , !VIRGULE , l' , ! ,  , O.
+86 , ONU , !VIRGULE , l' , ! , XX ,  , O.
+89 , XX , XX , dans , l' , avenir ,  , O.
+90 , XX , dans , l' , avenir , du ,  , O.
+91 , dans , l' , avenir , du , pays ,  , O.
+92 , l' , avenir , du , pays , !VIRGULE ,  , O.
+93 , avenir , du , pays , !VIRGULE , sont ,  , O.
+94 , du , pays , !VIRGULE , sont , au ,  , O.
+95 , pays , !VIRGULE , sont , au , coeur ,  , O.
+96 , !VIRGULE , sont , au , coeur , du ,  , O.
+97 , sont , au , coeur , du , sommet ,  , O.
+98 , au , coeur , du , sommet , des ,  , O.
+99 , coeur , du , sommet , des , chefs ,  , O.
+100 , du , sommet , des , chefs , de ,  , O.
+101 , sommet , des , chefs , de , la ,  , O.
+102 , des , chefs , de , la , diplomatie ,  , O.
+103 , chefs , de , la , diplomatie , des ,  , O.
+104 , de , la , diplomatie , des , Quinze ,  , O.
+105 , la , diplomatie , des , Quinze , aujourd'hui ,  , O.
+106 , diplomatie , des , Quinze , aujourd'hui , à ,  , B-org.
+107 , des , Quinze , aujourd'hui , à , Luxembourg ,  , O.
+108 , Quinze , aujourd'hui , à , Luxembourg , . ,  , O.
+109 , aujourd'hui , à , Luxembourg , . , XX , LOC ORG PERS  , B-geoloc.
+112 , XX , XX , la , rencontre , se ,  , O.
+113 , XX , la , rencontre , se , déroule ,  , O.
+115 , rencontre , se , déroule , sur , fond ,  , O.
+116 , se , déroule , sur , fond , de ,  , O.
+117 , déroule , sur , fond , de , tension ,  , O.
+118 , sur , fond , de , tension , entre ,  , O.
+119 , fond , de , tension , entre , les ,  , O.
+121 , tension , entre , les , États_Unis , et ,  , O.
+122 , entre , les , États_Unis , et , la , ORG LOC  , B-org.
+124 , États_Unis , et , la , Syrie , . ,  , O.
+125 , et , la , Syrie , . , XX , ORG LOC  , B-org.
+128 , XX , XX , Washington , accuse , Damas , ORG LOC PERS  , B-org.
